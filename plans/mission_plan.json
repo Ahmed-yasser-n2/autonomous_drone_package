@@ -1,0 +1,23 @@
+[
+    {
+        "latitude": 47.3977434,
+        "longitude": 8.5455933,
+        "altitude": 25,
+        "speed": 200,
+        "is_fly_through": true
+    },
+    {
+        "latitude": 47.39807133,
+        "longitude": 8.54555309,
+        "altitude": 25,
+        "speed":200,
+        "is_fly_through": true
+    },
+    {
+        "latitude": 47.3979158,
+        "longitude": 8.545973,
+        "altitude": 25,
+        "speed": 200,
+        "is_fly_through": true
+    }
+]
